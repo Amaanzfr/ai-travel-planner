@@ -62,3 +62,7 @@ ai-travel-planner/
 ```bash
 git clone https://github.com/Amaanzfr/ai-travel-planner.git
 cd ai-travel-planner
+---
+
+## 🔗 Live Demo: 
+https://your-vercel-link.vercel.app
